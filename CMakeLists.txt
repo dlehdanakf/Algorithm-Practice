@@ -3,4 +3,4 @@ project(Algorithm_Assignments)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Painting Painting_Fence.cpp)
+add_executable(Code_For_1 Code_For_1.cpp)
