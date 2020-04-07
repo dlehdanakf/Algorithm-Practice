@@ -3,4 +3,4 @@ project(Algorithm_Assignments)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(hotel_room_reservation KakaoCodingTest/hotel_room_reservation.cpp)
+add_executable(Painting Painting_Fence.cpp)
